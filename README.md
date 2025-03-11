@@ -27,7 +27,4 @@ You can disable camera access at any time through your browser settings or by di
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at [your email address].
-
-Last updated: [Date]
+Last updated: [11.03.2025]
